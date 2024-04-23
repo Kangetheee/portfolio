@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Commodo officia tempor do incididunt. Nulla laboris magna anim non laboris duis exercitation non aliquip cillum in minim deserunt cupidatat cupidatat."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
