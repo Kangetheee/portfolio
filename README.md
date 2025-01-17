@@ -17,7 +17,6 @@
 
 **Library Prot1** is a project built using **Next.js**, **Prismic CMS**, **Three.js**, and **GSAP**. It leverages modern web technologies to deliver a dynamic and interactive user experience. The project also includes **Slice Machine** for efficient content modeling and management, alongside **TailwindCSS** for rapid UI design.
 
-[![Library Prot1 Video Overview](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
 
 ---
 
